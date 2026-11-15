@@ -1,0 +1,108 @@
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Áurea Seguros",
+  "url": "https://aureaseguros.com.mx/"
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Áurea Seguros",
+  "url": "https://aureaseguros.com.mx/",
+  "email": "esquinoman@yahoo.com.mx",
+  "telephone": [
+   "+525555752900",
+   "+525555752201"
+  ],
+  "areaServed": [
+   "Ciudad de México",
+   "México"
+  ],
+  "openingHours": "Mo-Fr 09:00-19:00",
+  "logo": "https://images.hostinger.com/4aa0f350-5909-4ab1-964e-2bf1df1eb0a9/94798c1c-e86b-4473-859d-cfbce3ca1eca.png"
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "InsuranceAgency",
+  "name": "Áurea Seguros",
+  "areaServed": "Ciudad de México y todo México",
+  "telephone": [
+   "+525555752900",
+   "+525555752201"
+  ],
+  "email": "esquinoman@yahoo.com.mx",
+  "openingHours": "Mo-Fr 09:00-19:00",
+  "logo": "https://images.hostinger.com/4aa0f350-5909-4ab1-964e-2bf1df1eb0a9/94798c1c-e86b-4473-859d-cfbce3ca1eca.png"
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+   {
+    "@type": "Question",
+    "name": "¿Qué tipo de seguros orientan?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Orientamos seguros de daños y de personas para empresas, personas y familias, además de microseguros y seguros de arte. Sujeto a las condiciones de la póliza."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Cuánto cuesta un seguro?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "El costo depende del tipo de seguro. Los microseguros son masivos y tienen un precio fijo. En seguros de arte, la obra se asegura a valor convenido, con base en el avalúo de un perito. En daños para empresas influyen la construcción, la ubicación, las protecciones y el giro del negocio; en seguros de personas, la edad, la ocupación y la salud. Sujeto a las condiciones de la póliza."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Dónde atienden?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Atendemos desde la Ciudad de México y en todo México."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Qué horario tienen?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Atendemos de lunes a viernes, de 9:00 a 19:00."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Cómo los contacto?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Puedes llamarnos al 55 5575 2900 y 55 5575 2201, o escribirnos a esquinoman@yahoo.com.mx."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Cómo contrato un seguro?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Se contrata después de una asesoría en la que se analizan los riesgos a prevenir. Sujeto a las condiciones de la póliza."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Cómo reporto un siniestro?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "En daños, se reporta a la aseguradora; en gastos médicos, se contacta a tu agente. Sujeto a las condiciones de la póliza."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Quién respalda a la agencia?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Las pólizas las emiten aseguradoras autorizadas y supervisadas por la CNSF. Sujeto a las condiciones de la póliza."
+    }
+   }
+  ]
+ }
+]

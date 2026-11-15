@@ -1,0 +1,23 @@
+# Áurea Seguros
+
+> Áurea Seguros es una asesoría en seguros que acompaña a empresas, personas y familias en México a tomar decisiones informadas. Con una herencia familiar desde 1939, ofrece orientación profesional y cercana para entender tus necesidades y encontrar la protección adecuada para cada historia.
+
+## Secciones
+- [Nuestra asesoría](https://aureaseguros.com.mx/#servicios): Orientación profesional en seguros para empresas y para personas y familias.
+- [Nuestra historia](https://aureaseguros.com.mx/#nosotros): Una herencia familiar desde 1939 que da sentido a nuestra manera de acompañarte.
+- [Contacto](https://aureaseguros.com.mx/#contacto): Solicita asesoría y conversemos sobre tu caso.
+- [Preguntas frecuentes](https://aureaseguros.com.mx/#preguntas): Lo que más nos preguntan antes de iniciar una conversación.
+
+- [Sobre la agencia](https://aureaseguros.com.mx/nosotros): Presentación de Áurea Seguros y su herencia familiar desde 1939.
+- [Página de contacto](https://aureaseguros.com.mx/contacto): Datos de contacto y formulario para solicitar asesoría.
+- [Página principal en Markdown](https://aureaseguros.com.mx/home.md): Representación en Markdown de la página principal, con el mismo contenido visible y enlaces reales.
+
+## Preguntas frecuentes
+- ¿Qué tipo de seguros orientan? Orientamos seguros de daños y de personas para empresas, personas y familias, además de microseguros y seguros de arte. Sujeto a las condiciones de la póliza.
+- ¿Cuánto cuesta un seguro? El costo depende del tipo de seguro. Los microseguros son masivos y tienen un precio fijo. En seguros de arte, la obra se asegura a valor convenido, con base en el avalúo de un perito. En daños para empresas influyen la construcción, la ubicación, las protecciones y el giro del negocio; en seguros de personas, la edad, la ocupación y la salud. Sujeto a las condiciones de la póliza.
+- ¿Dónde atienden? Atendemos desde la Ciudad de México y en todo México.
+- ¿Qué horario tienen? Atendemos de lunes a viernes, de 9:00 a 19:00.
+- ¿Cómo los contacto? Puedes llamarnos al 55 5575 2900 y 55 5575 2201, o escribirnos a esquinoman@yahoo.com.mx.
+- ¿Cómo contrato un seguro? Se contrata después de una asesoría en la que se analizan los riesgos a prevenir. Sujeto a las condiciones de la póliza.
+- ¿Cómo reporto un siniestro? En daños, se reporta a la aseguradora; en gastos médicos, se contacta a tu agente. Sujeto a las condiciones de la póliza.
+- ¿Quién respalda a la agencia? Las pólizas las emiten aseguradoras autorizadas y supervisadas por la CNSF. Sujeto a las condiciones de la póliza.
