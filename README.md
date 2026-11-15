@@ -28,7 +28,13 @@ Negocio: asesoría en seguros (daños y personas para empresas, personas y famil
 - `llms.txt` publicado. Es un complemento: Google Search no lo usa.
 - Datos de contacto, horario y zona en texto visible y en JSON-LD.
 
+## Cambios posteriores al primer snapshot (15 de noviembre, mediodía)
+- Logo de imagen en encabezado y pie, con texto alternativo "Áurea Seguros" y enlace al inicio. El `extracto-html.html` de `snapshot/` es anterior a este cambio.
+- Página 404 personalizada, con código HTTP 404 y enlaces al inicio y a las preguntas frecuentes.
+- PageSpeed móvil medido a las 11:44 con el logo ya publicado: Rendimiento 99, Accesibilidad 96, Prácticas recomendadas 100, SEO 100; LCP 1.5 s, CLS 0. AI Visibility 82/100 (B) se midió antes del logo.
+
 ## Limitaciones conocidas
+- `www.aureaseguros.com.mx` y `aureaseguros.com.mx` publican la misma portada y cada una declara su propia canónica. La redirección está pendiente.
 - `robots.txt` lo administra la plataforma y no es editable. Permite los bots de búsqueda e IA de consulta y bloquea los de entrenamiento (GPTBot, ClaudeBot, Google-Extended, entre otros).
 - Search Console, Google Business Profile y perfiles en redes aún no están configurados.
 - Aviso de privacidad y términos de uso publicados en `/privacidad` y `/terminos`. Son una versión básica, pendiente de revisión por una persona con formación jurídica; el aviso no incluye todos los elementos que exige la ley.
