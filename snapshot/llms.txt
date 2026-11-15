@@ -7,7 +7,6 @@
 - [Nuestra historia](https://aureaseguros.com.mx/#nosotros): Una herencia familiar desde 1939 que da sentido a nuestra manera de acompañarte.
 - [Contacto](https://aureaseguros.com.mx/#contacto): Solicita asesoría y conversemos sobre tu caso.
 - [Preguntas frecuentes](https://aureaseguros.com.mx/#preguntas): Lo que más nos preguntan antes de iniciar una conversación.
-
 - [Sobre la agencia](https://aureaseguros.com.mx/nosotros): Presentación de Áurea Seguros y su herencia familiar desde 1939.
 - [Página de contacto](https://aureaseguros.com.mx/contacto): Datos de contacto y formulario para solicitar asesoría.
 - [Página principal en Markdown](https://aureaseguros.com.mx/home.md): Representación en Markdown de la página principal, con el mismo contenido visible y enlaces reales.

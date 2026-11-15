@@ -19,3 +19,6 @@ Sin cambiar el diseño ni lo existente, usa solo estos datos y no inventes nada.
 - "Se contrata después de una asesoría en la que se analizan los riesgos a prevenir."
 - Quitar "Sujeto a las condiciones de la póliza." de zona, horario y contacto.
 - Actualizar el JSON-LD con los mismos textos. Nada más.
+
+## 15-nov-2026: FAQ a H2 y fecha de actualización visible
+Haz solo dos cambios. 1) En la sección de preguntas frecuentes, cambia las 8 preguntas de encabezado H3 a H2, con el mismo texto y el mismo aspecto visual; deja "Resolvemos tus dudas." como está. 2) En el pie de la página agrega una línea visible: "Última actualización: 15 de noviembre de 2026." con el estilo del texto pequeño. No cambies títulos, JSON-LD, colores ni otras páginas. Publica.
